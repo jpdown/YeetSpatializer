@@ -9,7 +9,7 @@ All dependencies can be installed from ModAssistant/BeatMods
 
 ## Installation
 
-* Download the latest version of the mod [here](https://github.com/jpdown/YeetSpatializer/releases). The latest dev build can be downloaded from [actions](https://github.com/jpdown/YeetSpatializer/actions).
+* Download the latest version of the mod [here](https://github.com/jpdown/YeetSpatializer/releases).
 * Place the dll in your Plugins folder
 
 ## Details
